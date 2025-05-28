@@ -1106,6 +1106,8 @@ def main():
         print(f"Error: {e}")
         print("Make sure pygame is installed: pip install pygame")
 
+#made by claude
+
 
 if __name__ == "__main__":
     main()
